@@ -8,6 +8,7 @@ Lesson sur les différents paradigmes
 |           | :one: [Procédurale](procedurale) |                                        |
 |           | :two: [Orientée Objet](oo)       |                                        |
 |           |                                  | :three: [Fonctionnelle](fonctionnelle) |
+|           |                                  | :four: [Logique](logique) |
 
 
 # References
