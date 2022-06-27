@@ -3,11 +3,11 @@
 
 Lesson sur les différents paradigmes
 
-| Paradigme | Impérative | Déclarative |
-|-----------|------------|-------------|
-|           | :one: [Procédurale](procedurale) | |
-|           | :two: [Orientée Objet](oo) | |
-|           | :three: [Fonctionnelle](fonctionnelle) |
+| Paradigme | Impérative                       | Déclarative                            |
+|-----------|----------------------------------|----------------------------------------|
+|           | :one: [Procédurale](procedurale) |                                        |
+|           | :two: [Orientée Objet](oo)       |                                        |
+|           |                                  | :three: [Fonctionnelle](fonctionnelle) |
 
 
 # References
