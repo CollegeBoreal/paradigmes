@@ -1,10 +1,11 @@
 # Paradigmes
 
 
-Lesson sur les différents paradigmes
+:a: À l'aide de [codespace](https://github.com/codespaces), crée un environnement de dévelopement en utilisant [VSC](https://code.visualstudio.com/)
 
-<img src="images/codespaces.png" width=300 > </img>
+<img src="images/codespaces.png" width=200 > </img>
 
+:b: Entreprends les exercices de programmation suivants
 
 | Paradigme | Impérative                       | Déclarative                            | Exercices   | 
 |-----------|----------------------------------|----------------------------------------|-------------|
