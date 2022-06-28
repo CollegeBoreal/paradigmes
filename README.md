@@ -3,6 +3,9 @@
 
 Lesson sur les différents paradigmes
 
+<img src="images/codespaces.png" width=300 > </img>
+
+
 | Paradigme | Impérative                       | Déclarative                            | Exercices   | 
 |-----------|----------------------------------|----------------------------------------|-------------|
 |           | :one: [Procédurale](procedurale) |                                        | Concevoir des codes de programmes qui utilisent des modules et objets |
