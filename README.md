@@ -3,9 +3,9 @@
 
 Lesson sur les différents paradigmes
 
-| Paradigme | Impérative                       | Déclarative                            |
-|-----------|----------------------------------|----------------------------------------|
-|           | :one: [Procédurale](procedurale) |                                        |
+| Paradigme | Impérative                       | Déclarative                            | Exercices   | 
+|-----------|----------------------------------|----------------------------------------|-------------|
+|           | :one: [Procédurale](procedurale) |                                        | 
 |           | :two: [Orientée Objet](oo)       |                                        |
 |           |                                  | :three: [Fonctionnelle](fonctionnelle) |
 |           |                                  | :four: [Logique](db) |
