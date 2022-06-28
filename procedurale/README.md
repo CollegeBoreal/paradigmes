@@ -6,6 +6,6 @@ concevoir des codes de programmes selon le style procédural qui utilisent des m
 
 :snake: En Python, donner un exemple de module
 
-# Référence
+# Références
 
 - [ ] [6. Modules](https://docs.python.org/3/tutorial/modules.html)
