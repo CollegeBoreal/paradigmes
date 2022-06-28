@@ -1,4 +1,4 @@
-# Programmation Logique
+# :zero: Programmation Logique
 
 ```
 docker container run --name some-mysql --env MYSQL_ROOT_PASSWORD=password --detach mysql:latest
