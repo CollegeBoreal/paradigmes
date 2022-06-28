@@ -5,8 +5,8 @@ Lesson sur les différents paradigmes
 
 | Paradigme | Impérative                       | Déclarative                            | Exercices   | 
 |-----------|----------------------------------|----------------------------------------|-------------|
-|           | :one: [Procédurale](procedurale) |                                        | concevoir des codes de programmes qui utilisent des modules et objets |
-|           | :two: [Orientée Objet](oo)       |                                        |
+|           | :one: [Procédurale](procedurale) |                                        | Concevoir des codes de programmes qui utilisent des modules et objets |
+|           | :two: [Orientée Objet](oo)       |                                        | Découper un problème en plus petits sous-problèmes |
 |           |                                  | :three: [Fonctionnelle](fonctionnelle) |
 |           |                                  | :four: [Logique](db) |
 
