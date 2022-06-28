@@ -1,4 +1,4 @@
-# Paradigmes
+# :clown_face: Paradigmes
 
 
 :a: À l'aide de [codespace](https://github.com/codespaces), crée un environnement de dévelopement en utilisant [VSC](https://code.visualstudio.com/)
