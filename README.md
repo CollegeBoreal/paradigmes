@@ -11,6 +11,10 @@ Lesson sur les différents paradigmes
 |           |                                  | :four: [Logique](logique) |
 
 
+:bulb: Laboratoires
+
+Puisque nous ne serons pas dans un laboratoire d’informatique, vous pouvez décrire les activités pratiques que vous proposez en lien avec votre mini-leçon.
+
 # References
 
 - [ ] [Introduction of Programming Paradigms](https://www.geeksforgeeks.org/introduction-of-programming-paradigms/)
