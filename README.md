@@ -1,7 +1,7 @@
 # :clown_face: Paradigmes
 
 
-:a: À l'aide de [codespace](https://github.com/codespaces), crée un environnement de dévelopement en utilisant [VSC](https://code.visualstudio.com/)
+:a: À l'aide de [:point_right: codespace](https://github.com/codespaces), crée un environnement de dévelopement en utilisant [VSC](https://code.visualstudio.com/)
 
 <img src="images/codespaces.png" width=200 > </img>
 
